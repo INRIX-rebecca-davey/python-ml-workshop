@@ -1,14 +1,4 @@
-# INRIX workshop - machine learning in Python
-
-# UNDER DEVELOPMENT - WATCH THIS SPACE
-
-## What we'll be using
-
-Python
-Pandas, numpy, scikit-learn
-Jupyter notebook
-
-# Installing stuff
+# Installing stuff - UNDER DEVELOPMENT - WATCH THIS SPACE
 
 ## If you don't currently have Python installed
 

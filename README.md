@@ -1,16 +1,17 @@
-# Overview
+# Python ML workshop
 
-## Schedule
+## Where and when
 
 Opening at 6pm for a 6.30pm start. Finishing at 9pm.
+Details of access to INRIX office.
 
 ## What's going to happen
 
 Details
 
-# Tools
+## Tools
 
-## If you don't currently have Python installed
+### If you don't currently have Python installed
 
 There are a couple of options...
 
@@ -20,7 +21,7 @@ Or you can install everything via Anaconda, in one of two ways:
 - install the 'full' Anaconda distribution (437MB), which includes everything we'll be using, but also lots of other packages we won't be using 
 - install 'Miniconda' which is some essentials, including Python and conda, the tool used to install packages via Anaconda. This way you install just the packages we'll be using, but all from one place. Minconda: https://conda.io/miniconda.html
 
-## If you already have Python installed
+### If you already have Python installed
 
 Zero'th option: use the soon-to-be environment.yml file to create a conda environment with all the libraries we'll be using!
 
@@ -30,14 +31,14 @@ If you installed Python directly:
 - you could either get miniconda to install
 - or you could use pip
 
-## What is Anaconda/conda and how does conda work?
+### What is Anaconda/conda and how does conda work?
 
 Anaconda is a distribution that includes Python and a whole host of useful packages and libraries, including all that we'll be using. Anaconda also includes 'conda', which is a command line tool for managing and installing new packages.
 
-# Data
+## Data
 
 Link to dataset and description of pre-processing done
 
-# Goal
+## Goal
 
 Description of what we'll be doing and what the goal is

@@ -10,6 +10,8 @@ The INRIX office is at Station House in Altrincham, just opposite the train/tram
 
 Description of what we'll be doing and what the goal is.
 
+"So with all this in mind, we’re hosting an interactive machine learning workshop where we’ll use Python to build a machine learning model of a dataset, going through step-by-step and explaining the concepts we’re applying."
+
 ## The dataset
 
 In the 'data' directory you'll find the data we'll be looking at tonight. It describes all road traffic accidents in Leeds from 2009 to 2015 that involve at least a minor injury. As you'll see, there are many interesting features to work with, including road surface conditions, lighting conditions, number of vehicles involved etc. 

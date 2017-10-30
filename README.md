@@ -4,7 +4,7 @@
 
 The office will be accessible from 6pm for a 6.30pm start. We'll be taking a break halfway through for food and drink, and aiming to finish at 9pm.
 
-The INRIX office is at Station House in Altrincham, just opposite the train/tram station. From 6pm to 6.30pm, someone will be there to meet you at the gate and let you in. If you arrive late, look out for a sign with a phone number to ring and someone will come down and get you.
+The INRIX office is at Station House in Altrincham, just opposite the train/tram station. Closer to the event you'll receive information about access.
 
 ## What's going to happen
 

@@ -1,9 +1,10 @@
 # Python ML workshop
 
-## Where and when
+## When and where
 
-Opening at 6pm for a 6.30pm start. Finishing at 9pm.
-Details of access to INRIX office.
+The office will be accessible from 6pm for a 6.30pm start. We'll be taking a break halfway through for food and drink, and aiming to finish at 9pm.
+
+The INRIX office is at Station House in Altrincham, just opposite the train/tram station. From 6pm to 6.30pm, someone will be there to meet you at the gate and let you in. If you arrive late, look out for a sign with a phone number to ring and someone will come down and get you.
 
 ## What's going to happen
 
@@ -16,15 +17,14 @@ In the 'data' directory you'll find the data we'll be looking at tonight. It des
 We've provided the raw files of the separate years, and additionally the following files:
 
 * all.csv - all raw year files together
-* cleaned-with-easting-northing.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
-* cleaned-with-latlng.csv - cleaned-with-easting-northing.csv but with latitude and longitude values instead of easting and northing - much easier to work with!
+* cleaned-with-latlng.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
 
 Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
 
 We chose this dataset for a few reasons:
 * it's relevant to our own work! We love traffic data.
-* it's nearly local, just a short hop across the Penines away
-* it has so many features! Great for machine learning, and rich for visualisation and mapping
+* it's (nearly) local, just a short hop across the Penines away
+* it has so many features! Great for machine learning, and rich for visualisation and mapping.
 
 ## Installing the tools we'll be using
 

@@ -7,7 +7,11 @@ Details of access to INRIX office.
 
 ## What's going to happen
 
-Details
+Description of what we'll be doing and what the goal is
+
+## Data
+
+Link to dataset and description of pre-processing done
 
 ## Tools
 
@@ -35,10 +39,4 @@ If you installed Python directly:
 
 Anaconda is a distribution that includes Python and a whole host of useful packages and libraries, including all that we'll be using. Anaconda also includes 'conda', which is a command line tool for managing and installing new packages.
 
-## Data
 
-Link to dataset and description of pre-processing done
-
-## Goal
-
-Description of what we'll be doing and what the goal is

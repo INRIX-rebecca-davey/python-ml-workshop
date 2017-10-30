@@ -7,13 +7,13 @@ Details of access to INRIX office.
 
 ## What's going to happen
 
-Description of what we'll be doing and what the goal is
+Description of what we'll be doing and what the goal is.
 
-## Data
+## The dataset
 
-Link to dataset and description of pre-processing done
+Link to dataset and description of pre-processing done.
 
-## Tools
+## Installing the tools we'll be using
 
 ### If you don't currently have Python installed
 

@@ -38,19 +38,21 @@ There are a couple of options...
 
 You can install Python directly from https://www.python.org/downloads/, and then install the required packages separately (see below).
 
-Or you can install everything via Anaconda, in one of two ways:
+Or you can install everything (including Python) via Anaconda, in one of two ways:
 - install the 'full' Anaconda distribution (437MB), which includes everything we'll be using, but also lots of other packages we won't be using 
-- install 'Miniconda' which is some essentials, including Python and conda, the tool used to install packages via Anaconda. This way you install just the packages we'll be using, but all from one place. Minconda: https://conda.io/miniconda.html
+- install 'Miniconda' which is some essentials, including Python and conda, the tool used to install packages via Anaconda. This way you can install just the packages we'll be using, but all from one place. Miniconda: https://conda.io/miniconda.html
 
-### If you already have Python installed
+### If you already have Python installed via conda/Anaconda/Miniconda
 
-Zero'th option: use the soon-to-be environment.yml file to create a conda environment with all the libraries we'll be using!
+You could...
+* use the soon-to-be environment.yml file to create a conda environment with all the libraries we'll be using!
+* use conda to install the packages separately, with 'conda install PACKAGENAME'
 
-If you installed Python via Anaconda but don't have the packages listed here, you can get them using the conda tool, with 'conda install PACKAGENAME'
+### If you already have Python installed directly (no conda/Anaconda/Miniconda)
 
-If you installed Python directly:
-- you could either get miniconda to install
-- or you could use pip
+You can either...
+- use pip to get the packages, with 'pip install PACKAGENAME'
+- install miniconda/Anaconda over the top of your current Python?
 
 ### What is Anaconda/conda and how does conda work?
 

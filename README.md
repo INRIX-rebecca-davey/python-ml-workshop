@@ -6,6 +6,8 @@ The office will be accessible from 6pm for a 6.30pm start. We'll be taking a bre
 
 The INRIX office is at Station House in Altrincham, just opposite the train/tram station. Closer to the event you'll receive information about access.
 
+If you have any questions at all then please get in touch: datascienceevents@inrix.com
+
 ## What's going to happen
 
 Description of what we'll be doing and what the goal is.

@@ -30,6 +30,14 @@ We chose this dataset for a few reasons:
 * it's (nearly) local, just a short hop across the Penines away
 * it has so many features! Great for machine learning, and rich for visualisation and mapping.
 
+## Jupyter notebook
+
+The tool we'll be using to develop and run the code is Jupyter notebook. This is a Python package that will be installed when you install the dependencies for the workshop. You launch it from the command line with 'jupyter notebook' and it will start a notebook in whatever directory you launch it from. 
+
+If you haven't used Jupyter notebook before, here's a link to a tutorial on using it. You can skip the section about running it in Docker, as we won't be doing that. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
+We'll also be using a wonderful package called 'pandas', which uses dataframes for neat handling of our data. If you haven't used it before, check out the pandas tutorial notebook 'pandas_tutorial.ipynb' to get a feel for the basic functions, as we'll be using it quite a lot.
+
 ## Installing the tools we'll be using
 
 ### If you don't currently have Python installed

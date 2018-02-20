@@ -7,7 +7,9 @@ At the workshop we'll be spending a couple of hours working through a machine le
 Here's our schedule for the evening:
 
 18.30 - 19.30: part 1
+
 19.30 - 20.00: pizza, drinks, chit chat
+
 20.00 - 21.00: part 2
 
 Our offices will be open from 6pm so if you're having issues with setup then feel free to drop by from 6 and we'll help you out. Equally, feel free to stick around for a chat afterwards.

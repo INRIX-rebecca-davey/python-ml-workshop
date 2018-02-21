@@ -20,7 +20,7 @@ The tool we'll be using to develop and run the code is Jupyter notebook. This is
 
 If you haven't used Jupyter notebook before, do not fear as there are plenty of good tutorials out there. Here's a quick one that covers the basics: http://cs231n.github.io/ipython-tutorial/
 
-We'll also be using a wonderful package called 'pandas', which uses dataframes for neat handling of our data. If you haven't used it before, check out the pandas tutorial notebook 'pandas_tutorial.ipynb' to get a feel for the basic functions, as we'll be using it quite a lot.
+We'll also be using a wonderful package called 'pandas', which uses dataframes for neat handling of our data. If you haven't used it before, check out the pandas tutorial notebook 'pandas_tutorial.ipynb' in the code folder to get a feel for the basic functions, as we'll be using it quite a lot.
 
 ## The dataset
 

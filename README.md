@@ -1,14 +1,26 @@
 # Python ML workshop
 
-## When and where
-
-The office will be accessible from 6pm for a 6.30pm start. We'll be taking a break halfway through for food and drink, and aiming to finish at 9pm.
-
-The INRIX office is at Station House in Altrincham, just opposite the train/tram station. From 6pm to 6.30pm, someone will be there to meet you at the gate and let you in. If you arrive late, look out for a sign with a phone number to ring and someone will come down and get you.
-
 ## What's going to happen
 
-Description of what we'll be doing and what the goal is.
+At the workshop we'll be spending a couple of hours working through a machine learning problem from start to finish. We'll switch between quick 'taught' sections on slides, and interactive sections where you'll be using Jupyter notebook and various packages to write code for working with the data and developing the machine learning model.
+
+Here's our schedule for the evening:
+
+18.30 - 19.30: part 1
+
+19.30 - 20.00: pizza, drinks, chit chat
+
+20.00 - 21.00: part 2
+
+Our offices will be open from 6pm so if you're having issues with setup then feel free to drop by from 6 and we'll help you out. Equally, feel free to stick around for a chat afterwards.
+
+## Jupyter notebook
+
+The tool we'll be using to develop and run the code is Jupyter notebook. This is a Python package that will be installed when you install the dependencies for the workshop. You launch it from the command line with 'jupyter notebook' and it will start up in whatever directory you launch it from. It runs in the browser from localhost. Notebooks have the file type '.ipynb' and if you have these files in the directory you launch Jupyter from, these will show up as notebooks you can interact with in the Jupyter interface.
+
+If you haven't used Jupyter notebook before, do not fear as there are plenty of good tutorials out there. Here's a quick one that covers the basics: http://cs231n.github.io/ipython-tutorial/
+
+We'll also be using a wonderful package called 'pandas', which uses dataframes for neat handling of our data. If you haven't used it before, check out the pandas tutorial notebook 'pandas_tutorial.ipynb' to get a feel for the basic functions, as we'll be using it quite a lot.
 
 ## The dataset
 
@@ -28,28 +40,34 @@ We chose this dataset for a few reasons:
 
 ## Installing the tools we'll be using
 
+We'll be using several Python libraries in the workshop, and depending on how/if you have Python installed there are different ways to get these ready...
+
 ### If you don't currently have Python installed
 
-There are a couple of options...
+There are different ways to install Python but the one I'd recommend if starting from scratch is via miniconda.
 
-You can install Python directly from https://www.python.org/downloads/, and then install the required packages separately (see below).
+Compared to the Anaconda distribution, which installs Python and then a tonne of packages, miniconda just installs Python and conda. conda is the package manager used to fetch more packages as and when you need them, and it also manages environments.
 
-Or you can install everything via Anaconda, in one of two ways:
-- install the 'full' Anaconda distribution (437MB), which includes everything we'll be using, but also lots of other packages we won't be using 
-- install 'Miniconda' which is some essentials, including Python and conda, the tool used to install packages via Anaconda. This way you install just the packages we'll be using, but all from one place. Minconda: https://conda.io/miniconda.html
+Follow the instructions here for your OS: https://conda.io/miniconda.html
 
-### If you already have Python installed
+Once installed, to get the packages/environment we'll be using you should download the environment.yml file above and create an environment from it using the command 'conda env create -f environment.yml' in whatever directory you downloaded the file to.
 
-Zero'th option: use the soon-to-be environment.yml file to create a conda environment with all the libraries we'll be using!
+You can then activate this environment using 'activate mlworkshop' (mlworkshop is the name we gave to the environment)
 
-If you installed Python via Anaconda but don't have the packages listed here, you can get them using the conda tool, with 'conda install PACKAGENAME'
+### If you already have Python installed via conda/Anaconda/Miniconda
 
-If you installed Python directly:
-- you could either get miniconda to install
-- or you could use pip
+Use the environment.yml file above to install the packages/environment we'll be using. You can do this by running the command 'conda env create -f environment.yml' in whatever directory you downloaded the yml file into.
 
-### What is Anaconda/conda and how does conda work?
+You can then activate this environment using 'activate mlworkshop' (mlworkshop is the name we gave to the environment)
 
-Anaconda is a distribution that includes Python and a whole host of useful packages and libraries, including all that we'll be using. Anaconda also includes 'conda', which is a command line tool for managing and installing new packages.
+### If you already have Python installed NOT using conda/Anaconda/miniconda
+
+You can either...
+- use pip to get the packages listed in the environment.yml file, using 'pip install PACKAGENAME' commands
+- install miniconda/Anaconda on top of your existing Python install. It will manage Python versions and installations for you.
+
+## Contact
+
+Remember, if you have any questions or run into any problems you can reach us at datascienceevents@inrix.com
 
 

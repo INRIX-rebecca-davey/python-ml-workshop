@@ -4,7 +4,7 @@
 
 At the workshop we'll be spending a couple of hours working through a machine learning problem from start to finish. We'll switch between quick 'taught' sections on slides, and interactive sections where you'll be using Jupyter notebook and various packages to write code for working with the data and developing the machine learning model.
 
-Please use the installation guide below to install the Python tools we'll be using *before* the session.
+**Please use the installation guide below to install the Python tools we'll be using before the session.**
 
 Here's our schedule for the evening:
 

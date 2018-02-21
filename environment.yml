@@ -1,0 +1,11 @@
+name: mlworkshop
+
+dependencies:
+  - python=3.6 #change this to your Python version!
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scikit-learn
+  - graphviz
+  - lime

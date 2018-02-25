@@ -18,7 +18,7 @@ Our offices will be open from 6pm so if you're having issues with setup then fee
 
 ## Jupyter notebook
 
-The tool we'll be using to develop and run the code is Jupyter notebook. This is a Python package that will be installed when you install the dependencies for the workshop. You launch it from the command line with 'jupyter notebook' and it will start up in whatever directory you launch it from. It runs in the browser from localhost. Notebooks have the file type '.ipynb' and if you have these files in the directory you launch Jupyter from, these will show up as notebooks you can interact with in the Jupyter interface.
+The tool we'll be using to develop and run the code is Jupyter notebook. This is a Python package that will be installed when you install the dependencies for the workshop. You launch it from the command line with 'jupyter-notebook' and it will start up in whatever directory you launch it from. It runs in the browser from localhost. Notebooks have the file type '.ipynb' and if you have these files in the directory you launch Jupyter from, these will show up as notebooks you can interact with in the Jupyter interface.
 
 If you haven't used Jupyter notebook before, do not fear as there are plenty of good tutorials out there. Here's a quick one that covers the basics: http://cs231n.github.io/ipython-tutorial/
 

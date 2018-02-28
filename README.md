@@ -42,6 +42,11 @@ We chose this dataset for a few reasons:
 
 ## Installing the tools we'll be using
 
+Recommended setup flow:
+1. Use the green 'Clone or download' button at the top of this page to download this directory as a zip file and extract it somewhere
+2. Set up the workshop environment using instructions below
+3. Run the pandas tutorial in Jupyter notebook (see above)
+
 We'll be using several Python libraries in the workshop, and depending on how/if you have Python installed there are different ways to get these ready...
 
 ### If you don't currently have Python installed

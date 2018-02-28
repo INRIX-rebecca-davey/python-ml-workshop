@@ -8,11 +8,13 @@ At the workshop we'll be spending a couple of hours working through a machine le
 
 Here's our schedule for the evening:
 
-18.30 - 19.30: part 1
+18.30 - 18.45: introduction and quick machine learning overview
 
-19.30 - 20.00: pizza, drinks, chit chat
+18.45 - 19.30: interactive notebook workthrough - part 1
 
-20.00 - 21.00: part 2
+19.30 - 20.00: break for pizza, drinks and chit chat
+
+20.00 - 21.00: interactive notebook workthrough - part 2
 
 Our offices will be open from 6pm so if you're having issues with setup then feel free to drop by from 6 and we'll help you out. Equally, feel free to stick around for a chat afterwards.
 

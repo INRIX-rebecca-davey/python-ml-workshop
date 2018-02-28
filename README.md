@@ -24,22 +24,6 @@ If you haven't used Jupyter notebook before, do not fear as there are plenty of 
 
 We'll also be using a wonderful package called 'pandas', which uses dataframes for neat handling of our data. If you haven't used it before, check out the pandas tutorial notebook 'pandas_tutorial.ipynb' in the code folder to get a feel for the basic functions, as we'll be using it quite a lot.
 
-## The dataset
-
-In the 'data' directory you'll find the data we'll be looking at tonight. It describes all road traffic accidents in Leeds from 2009 to 2015 that involve at least a minor injury. As you'll see, there are many interesting features to work with, including road surface conditions, lighting conditions, number of vehicles involved etc. 
-
-We've provided the raw files of the separate years, and additionally the following files:
-
-* all.csv - all raw year files together
-* cleaned-with-latlng.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
-
-Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
-
-We chose this dataset for a few reasons:
-* it's relevant to our own work! We love traffic data.
-* it's (nearly) local, just a short hop across the Penines away
-* it has so many features! Great for machine learning, and rich for visualisation and mapping.
-
 ## Installing the tools we'll be using
 
 Recommended setup flow:
@@ -72,6 +56,22 @@ You can then activate this environment using 'activate mlworkshop' (mlworkshop i
 You can either...
 - use pip to get the packages listed in the environment.yml file, using 'pip install PACKAGENAME' commands
 - install miniconda/Anaconda on top of your existing Python install. It will manage Python versions and installations for you.
+
+## The dataset
+
+In the 'data' directory you'll find the data we'll be looking at tonight. It describes all road traffic accidents in Leeds from 2009 to 2015 that involve at least a minor injury. As you'll see, there are many interesting features to work with, including road surface conditions, lighting conditions, number of vehicles involved etc. 
+
+We've provided the raw files of the separate years, and additionally the following files:
+
+* all.csv - all raw year files together
+* cleaned-with-latlng.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
+
+Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
+
+We chose this dataset for a few reasons:
+* it's relevant to our own work! We love traffic data.
+* it's (nearly) local, just a short hop across the Penines away
+* it has so many features! Great for machine learning, and rich for visualisation and mapping.
 
 ## Contact
 

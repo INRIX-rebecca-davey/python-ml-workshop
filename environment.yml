@@ -7,5 +7,7 @@ dependencies:
   - matplotlib
   - jupyter
   - scikit-learn
-  - graphviz
-  - lime
+  - pip
+  - pip:
+    - lime
+    - graphviz

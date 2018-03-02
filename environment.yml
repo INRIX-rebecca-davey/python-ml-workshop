@@ -9,5 +9,4 @@ dependencies:
   - scikit-learn
   - pip
   - pip:
-    - lime
     - graphviz
